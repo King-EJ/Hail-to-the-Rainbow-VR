@@ -1,4 +1,4 @@
-# Hail-to-the-Rainbow
+# Hail-to-the-Rainbow VR
 VR Mod for Hail to the Rainbow
 
 broken not tested fully 
