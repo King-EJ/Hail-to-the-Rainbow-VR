@@ -45,7 +45,7 @@ CONTROLS (the controllers are a gamepad for the game - the game shows gamepad pr
   
   **Left grip + left stick  d-pad**
   
-  **Left grip + right stick the game's normal right stick (look / turn items) - no turning / jumping meanwhile**
+  **Left grip + right stick the game's normal right stick (look / turn items) - no turning / jumping meanwhile "put dot in middle puzzle"**
   
   Left grip + L3 ........ the **MOD'S FLASHLIGHT** on / off (bright; hand / brightness / reach / beam in the VR menu)
   
