@@ -25,13 +25,17 @@ CONTROLS (the controllers are a gamepad for the game - the game shows gamepad pr
   
   Y ..................... reload
   
-  X ..................... inventory - tap to open, tap again to close (InventoryToggle = false: hold X)
+  X ..................... inventory - tap  to open, tap again to close (InventoryToggle = false: hold X)
   
   Right grip (hold) ..... LASER
   
   Left stick click ...... run
   
   Right stick click ... flashlight
+
+  Right stick up ... jump (car break)
+
+  Right stick down ... crouch
   
   Left grip (tap) ....... LB (menus: tab left)
   
@@ -39,11 +43,11 @@ CONTROLS (the controllers are a gamepad for the game - the game shows gamepad pr
   
   Left grip + B ....... photo mode (Select)
   
-  Left grip + left stick  d-pad
+  **Left grip + left stick  d-pad**
   
-  Left grip + right stick the game's normal right stick (look / turn items) - no turning / jumping meanwhile
+  **Left grip + right stick the game's normal right stick (look / turn items) - no turning / jumping meanwhile**
   
-  Left grip + L3 ........ the MOD'S FLASHLIGHT on / off (bright; hand / brightness / reach / beam in the VR menu)
+  Left grip + L3 ........ the **MOD'S FLASHLIGHT** on / off (bright; hand / brightness / reach / beam in the VR menu)
   
   Left grip + X ......... live ADJUSTMENT of BOTH hands: the hands stay put in the air, move each controller to
                           where you want to hold them (right stick up / down = bigger / smaller), left grip + X again
