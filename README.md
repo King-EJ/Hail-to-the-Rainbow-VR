@@ -72,3 +72,8 @@ CONTROLS (the controllers are a gamepad for the game - the game shows gamepad pr
   * What you can use / pick up is picked from where your right controller points (A = use).
   * The game looks where you look (you walk where you look).
   * First run: the hands may sit too far forward - use left grip + X once for each item to put them in your hand.
+
+Issues
+-
+* all item not place correct and may adjust in correctly when swap live adjust work to fix (LG+X)
+* drone move with left stick and turn with LG + right stick
